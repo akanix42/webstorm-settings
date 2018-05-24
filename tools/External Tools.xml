@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="Prettier Vue" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$\site\node_modules\.bin\vue-prettier.cmd" />
+      <option name="PARAMETERS" value="--write $FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/site" />
+    </exec>
+  </tool>
+  <tool name="ESLint fix" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$/site/node_modules/.bin/eslint.cmd" />
+      <option name="PARAMETERS" value="--fix $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

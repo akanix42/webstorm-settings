@@ -1,0 +1,10 @@
+<application>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="abd576ba-dcad-4c8c-ae3c-9b5da46b8ef9" baseUri="https://stash.go2advertising.com/" />
+    </instances>
+    <lookup>
+      <record scheme="https" hostname="stash.go2advertising.com" port="-1" path="/" uuid="abd576ba-dcad-4c8c-ae3c-9b5da46b8ef9" />
+    </lookup>
+  </component>
+</application>

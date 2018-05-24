@@ -1,0 +1,14 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
+  </action>
+  <action id="Macro.Reformat Code Macro">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="ReformatCode" />
+  <action id="ShowReformatFileDialog" />
+  <action id="Vcs.ReformatCommitMessage" />
+  <action id="ViewImportPopups">
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
+</keymap>

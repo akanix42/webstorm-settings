@@ -1,0 +1,13 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Format Code Macro">
+      <action id="ReformatCode" />
+      <action id="Javascript.Linters.EsLint.Fix" />
+    </macro>
+    <macro name="Reformat Code Macro">
+      <action id="ReformatCode" />
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="TsLintFileFixAction" />
+    </macro>
+  </component>
+</application>
