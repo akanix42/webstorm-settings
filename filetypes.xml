@@ -7,6 +7,7 @@
       <mapping pattern="akryum_vue-router2" type="PLAIN_TEXT" />
       <mapping pattern=".babelrc.RENAMED" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".tsignore" type="PLAIN_TEXT" />
       <mapping pattern="placeholder" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".babelrc.quasar" type="PLAIN_TEXT" />
