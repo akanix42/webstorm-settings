@@ -1,7 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.1.7.4" />
+    <option name="version" value="2.4.0.3-2018.1" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="80cbc4" />
+    <option name="userId" value="-584307ac:163f42b8e0a:-7fff" />
   </component>
 </application>
