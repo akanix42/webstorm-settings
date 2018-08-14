@@ -23,6 +23,7 @@
       <mapping ext="json2" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="mss" type="SCSS" />
     </extensionMap>
   </component>
