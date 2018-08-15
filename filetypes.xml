@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="pipetool" type="Bash" />
       <mapping ext="template" type="Handlebars/Mustache" />
+      <mapping pattern=".bundleignore" type="Ignore file" />
       <mapping ext="xs" type="JavaScript" />
       <mapping pattern=".eslintrc.jsa" type="PLAIN_TEXT" />
       <mapping pattern=".babelrc.quasar" type="PLAIN_TEXT" />
