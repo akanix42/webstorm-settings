@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="pipetool" type="Bash" />
       <mapping ext="template" type="Handlebars/Mustache" />
       <mapping ext="xs" type="JavaScript" />
       <mapping pattern=".eslintrc.jsa" type="PLAIN_TEXT" />
