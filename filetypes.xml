@@ -25,6 +25,7 @@
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="mss" type="SCSS" />
     </extensionMap>
   </component>
