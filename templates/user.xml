@@ -7,4 +7,12 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="dimp" value="const $import$ = (await import('$import$$expand$')).$export$;&#10;" description="Dynamic Import" toReformat="true" toShortenFQNames="true">
+    <variable name="import" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="expand" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="export" expression="" defaultValue="&quot;default&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
