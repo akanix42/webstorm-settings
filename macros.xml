@@ -6,5 +6,6 @@
       <action id="TsLintFileFixAction" />
       <action id="ReformatWithPrettierAction" />
     </macro>
+    <macro name="a" />
   </component>
 </application>
