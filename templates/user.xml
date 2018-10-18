@@ -15,13 +15,13 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="log" value="console.log($value$);" toReformat="false" toShortenFQNames="true">
+  <template name="log" value="console.log($value$);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="logj" value="console.log(JSON.stringify($value$, null, 2));" toReformat="false" toShortenFQNames="true">
+  <template name="logj" value="console.log(JSON.stringify($value$, null, 2));" description="" toReformat="false" toShortenFQNames="true">
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
