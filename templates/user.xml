@@ -27,4 +27,13 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="asfn" value="export default async function $name$($args$) {&#10;  $body$&#10;}" description="Async function" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="body" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
