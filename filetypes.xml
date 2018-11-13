@@ -15,6 +15,7 @@
       <mapping pattern=".babelrco" type="PLAIN_TEXT" />
       <mapping pattern="LIBRARIES" type="PLAIN_TEXT" />
       <mapping pattern=".tsignore" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="QUASAR" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".babelrc.RENAMED" type="PLAIN_TEXT" />
