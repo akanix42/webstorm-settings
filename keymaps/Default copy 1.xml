@@ -2,6 +2,9 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="Macro.reformat code 1">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
