@@ -4,5 +4,15 @@
       <action id="Javascript.Linters.EsLint.Fix" />
       <action id="ReformatWithPrettierAction" />
     </macro>
+    <macro name="stuff">
+      <action id="SearchEverywhere" />
+      <typing text-keycode="83:0;65:0;86:0;69:0">save</typing>
+      <action id="SaveAll" />
+      <action id="SearchEverywhere" />
+      <typing text-keycode="84:0;83:0;76:0;73:0;78:0;84:0">tslint</typing>
+      <action id="SearchEverywhere" />
+      <typing text-keycode="84:0;83:0;76:0;73:0;78:0">tslin</typing>
+      <action id="TsLintFileFixAction" />
+    </macro>
   </component>
 </application>
